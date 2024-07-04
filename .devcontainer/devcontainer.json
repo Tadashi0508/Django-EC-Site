@@ -31,7 +31,8 @@
 				"oderwat.indent-rainbow",
 				"ms-python.autopep8",
 				"pkief.material-icon-theme",
-				"christian-kohler.path-intellisens"
+				"christian-kohler.path-intellisens",
+				"ms-python.python"
 			],
 			"settings": {
 				"ruby.useLanguageServer": true
